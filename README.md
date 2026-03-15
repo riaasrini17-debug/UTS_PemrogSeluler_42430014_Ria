@@ -30,7 +30,7 @@ Aplikasi ini dibangun untuk memenuhi Ujian Tengah Semester (UTS) mata kuliah Pem
 
 | Mode Potret                | Mode Lanskap                  |
 |----------------------------|-------------------------------|
-| ![](img/login-potrait.jpg) | ![](img/login_landscape.jpeg) |
+| ![](img/login-potrait.jpg) | ![](img/login-landscape.jpg) |
 
 ---
 
