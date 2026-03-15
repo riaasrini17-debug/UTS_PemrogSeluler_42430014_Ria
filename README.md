@@ -50,13 +50,4 @@ Aplikasi ini dibangun untuk memenuhi Ujian Tengah Semester (UTS) mata kuliah Pem
 4. Masukkan data dosen dan nilai mahasiswa
 5. Tekan tombol **Proses Data** untuk menghasilkan lembar evaluasi
 
----
 
-## Teknologi yang Digunakan
-
-- Android Studio
-- Java
-- XML Layout
-- Intent (Data Passing)
-- If-Else
-- For Loop
